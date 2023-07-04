@@ -1,0 +1,1 @@
+# MSSQL-NORTHWND-VeriTabani-Sorgulari
